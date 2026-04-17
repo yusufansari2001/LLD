@@ -8,6 +8,14 @@ out/
 .apt_generated
 .classpath
 .factorypath
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
 .project
 .settings
 .springBeans
